@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.apache.hyracks:hyracks-dataflow-common:0.2.16-incubating">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/hyracks/hyracks-dataflow-common/0.2.16-incubating/hyracks-dataflow-common-0.2.16-incubating.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/hyracks/hyracks-dataflow-common/0.2.16-incubating/hyracks-dataflow-common-0.2.16-incubating-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/hyracks/hyracks-dataflow-common/0.2.16-incubating/hyracks-dataflow-common-0.2.16-incubating-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
